@@ -1,7 +1,7 @@
 app_name = "taskmanager"
-app_title = "TaskManager"
-app_publisher = "Upande"
-app_description = "Project management"
+app_title = "Taskmanager"
+app_publisher = "gathee"
+app_description = "Project manager tool"
 app_email = "gerald@upande.com"
 app_license = "gpl-3.0"
 
@@ -15,7 +15,7 @@ app_license = "gpl-3.0"
 # 	{
 # 		"name": "taskmanager",
 # 		"logo": "/assets/taskmanager/logo.png",
-# 		"title": "TaskManager",
+# 		"title": "Taskmanager",
 # 		"route": "/taskmanager",
 # 		"has_permission": "taskmanager.api.permission.has_app_permission"
 # 	}

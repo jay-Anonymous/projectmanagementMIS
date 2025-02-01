@@ -1,6 +1,6 @@
-## TaskManager
+## Taskmanager
 
-Project management
+Project manager tool
 
 #### License
 

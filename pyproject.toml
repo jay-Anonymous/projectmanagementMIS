@@ -1,9 +1,9 @@
 [project]
 name = "taskmanager"
 authors = [
-    { name = "Upande", email = "gerald@upande.com"}
+    { name = "gathee", email = "gerald@upande.com"}
 ]
-description = "Project management"
+description = "Project manager tool"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
