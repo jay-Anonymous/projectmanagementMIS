@@ -1,0 +1,30 @@
+{
+    "doctype": "Billing",
+    "fields": [
+        {
+            "fieldname": "project",
+            "fieldtype": "Data",
+            "label": "Project",
+            "required": 1
+        },
+        {
+            "fieldname": "billing_type",
+            "fieldtype": "Select",
+            "label": "Billing Type",
+            "options": "Fixed Recurring\nAllocation Based\nTimesheet Based\nMilestone Based",
+            "required": 1
+        },
+        {
+            "fieldname": "amount",
+            "fieldtype": "Currency",
+            "label": "Amount",
+            "required": 1
+        },
+        {
+            "fieldname": "billing_date",
+            "fieldtype": "Date",
+            "label": "Billing Date",
+            "required": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "doctype": "Project Charter",
+    "fields": [
+        {
+            "fieldname": "project_name",
+            "fieldtype": "Data",
+            "label": "Project Name",
+            "required": 1
+        },
+        {
+            "fieldname": "objectives",
+            "fieldtype": "Text",
+            "label": "Objectives",
+            "required": 1
+        },
+        {
+            "fieldname": "scope",
+            "fieldtype": "Text",
+            "label": "Scope",
+            "required": 1
+        },
+        {
+            "fieldname": "participants",
+            "fieldtype": "Data",
+            "label": "Participants",
+            "required": 1
+        }
+    ]
+}

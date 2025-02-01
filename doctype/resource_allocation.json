@@ -1,0 +1,23 @@
+{
+    "doctype": "Resource Allocation",
+    "fields": [
+        {
+            "fieldname": "project",
+            "fieldtype": "Data",
+            "label": "Project",
+            "required": 1
+        },
+        {
+            "fieldname": "resources",
+            "fieldtype": "Text",
+            "label": "Resources",
+            "required": 1
+        },
+        {
+            "fieldname": "allocation_date",
+            "fieldtype": "Date",
+            "label": "Allocation Date",
+            "required": 1
+        }
+    ]
+}

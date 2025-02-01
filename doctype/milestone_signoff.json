@@ -1,0 +1,23 @@
+{
+    "doctype": "Milestone Signoff",
+    "fields": [
+        {
+            "fieldname": "milestone_name",
+            "fieldtype": "Data",
+            "label": "Milestone Name",
+            "required": 1
+        },
+        {
+            "fieldname": "client_name",
+            "fieldtype": "Data",
+            "label": "Client Name",
+            "required": 1
+        },
+        {
+            "fieldname": "signature",
+            "fieldtype": "Data",
+            "label": "Signature",
+            "required": 1
+        }
+    ]
+}
